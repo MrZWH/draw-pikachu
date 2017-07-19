@@ -142,8 +142,8 @@ body{
     border-top-left-radius: 100px 100px;
     border-top-right-radius: 100px 100px;
     background: #ff485f;
-    -webkit-box-shadow: inset 0 1610 0 20px #98000a;
-            box-shadow: inset 0 1610 0 20px #98000a;
+    -webkit-box-shadow: inset 0 1610px 0 20px #98000a;
+            box-shadow: inset 0 1610px 0 20px #98000a;
 }
 .face{
     border: 3px solid black;
