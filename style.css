@@ -8,6 +8,19 @@
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
 }
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.code-wrapper {
+    flex: 1;
+    height: 50%;
+}
+.preview-wrapper {
+    flex: 1;
+    height: 50%;
+}
 .preview{
     display: -webkit-box;
     display: -ms-flexbox;
