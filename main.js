@@ -22,6 +22,7 @@
 * 首先需要准备皮卡丘的皮
 */
 .preview{
+    height: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -34,7 +35,7 @@
             align-items: center;
 }
 #container{
-    height: 300px;
+    height: 100%;
     width: 460px;
     position: relative;
 }
