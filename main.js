@@ -12,7 +12,7 @@
         window.clearInterval(id)
         fn && fn.call()
       }
-    }, 10)
+    }, 20)
   }
   
   let code = `
@@ -30,7 +30,6 @@
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    min-height: 100vh;
 }
 #container{
     height: 300px;
