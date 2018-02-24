@@ -27,7 +27,7 @@ body {
     height: 100%;
 }
 .actions {
-    postion: absolute;
+    position: absolute;
     right: 0;
     top: 0;
     display: flex;
