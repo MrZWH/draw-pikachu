@@ -209,7 +209,7 @@
 */
 `
   writeCode('', code)
-  $('.actions').on('click', 'button', function () {
+  $('.actions').on('click', 'button', function (e) {
       let $button = $(e.currentTarget)
       let speed = $button.attr('data-speed')
       $button.addClass('active')
