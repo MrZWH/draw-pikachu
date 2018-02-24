@@ -8,7 +8,7 @@
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
 }
-body{
+.preview{
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
